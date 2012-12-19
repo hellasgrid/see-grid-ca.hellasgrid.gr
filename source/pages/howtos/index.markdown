@@ -9,8 +9,10 @@ styles: [data-table]
 sidebar: false
 ---
 
-1. [How to set up a new SEE-GRID CA Registration Authority][howto-ra]
+1. [How to set up a new SEE-GRID CA Registration Authority][howto-ra-setup]
+1. [How to change over a SEE-GRID CA Registration Authority][howto-ra-changeover]
 1. [How to create a certificate request][howto-cert-req]
 
-[howto-ra]: /pages/setting-up-a-see-grid-ca-registration-authority
+[howto-ra-setup]: /pages/setting-up-a-see-grid-ca-registration-authority
+[howto-ra-changeover]: /pages/change-over-a-see-grid-ca-registration-authority
 [howto-cert-req]: /pages/certificate-requests
