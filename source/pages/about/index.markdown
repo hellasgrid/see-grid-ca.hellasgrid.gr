@@ -27,13 +27,15 @@ Certificate Policy and Certification Practice Statement (CP/CPS)
 ================================================================================
 
 
-The current version of the SEE-GRID CA CP/CPS is version 2.1.
+The current version of the SEE-GRID CA CP/CPS is version 2.2.
 
-* [SEE-GRID CA CP/CPS v2.1][cps21]
+* [SEE-GRID CA CP/CPS v2.2][cps22]
+* [SEE-GRID CA CP/CPS v2.1][cps21] _(Superseded by v2.2)_
 * [SEE-GRID CA CP/CPS v2.0][cps20] _(Superseded by v2.1)_
 * [SEE-GRID CA CP/CPS v1.1][cps11] _(Superseded by v2.0)_
 * [SEE-GRID CA CP/CPS v1.0][cps10] _(Superseded by v1.1)_
 
+[cps22]: /assets/SEE-GRID-CA-CP-CPS-2.2.pdf
 [cps21]: /assets/SEE-GRID-CA-CP-CPS-2.1.pdf
 [cps20]: /assets/SEE-GRID-CA-CP-CPS-2.0.pdf
 [cps11]: /assets/SEE-GRID-CA-CP-CPS-1.1.pdf
