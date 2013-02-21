@@ -79,16 +79,16 @@ The procedures of identification and authentication of the certificate applicant
 The table below contains the current list of Registration Authorities. 
 
 
-|#   | Country                | Registration Authority             | RA Manager          | e-mail                                |
-|----|------------------------|------------------------------------|---------------------|---------------------------------------|
-|1   | Greece                 |  GRNET                             | Ognjen Prnjat       | oprnjat at grnet dot gr               |
-|2   | Albania                |  INIMA                             | Sanie Cela          | spen at inima dot al                  |
-|3   | Bosnia and Herzegovina |  University of Banja Luka          | Mihajlo Savic       | badaboom at etfbl dot net             |
-|4   | Bosnia and Herzegovina |  University of Sarajevo            | Haris Gavranovic    | haris at pmf dot unsa dot ba          |
-|5   | Georgia                |  GRENA                             | Nugzar Gamtsemlidze | ngamtsemlidze at grena dot ge         |
-|6   | Azerbaijan             |  National Academy of Sciences      | Shahla Khalilova    | shahla.khalilova at azgrid dot org    |
-|7   | Senegal                |  Univesity Chaukh Anta DIOP        | Bassirou Kasse      | bassirou.kasse at ucad dot edu dot sn |
-|8   | Switzerland            |  SixSq                             | Marc-Elian Begin    | meb at sixsq dot com                  |
+|#   | Country                | Registration Authority                 | RA Manager          | e-mail                                |
+|----|------------------------|----------------------------------------|---------------------|---------------------------------------|
+|1   | Greece                 |  GRNET                                 | Ognjen Prnjat       | oprnjat at grnet dot gr               |
+|2   | Albania                |  Polytechic University of Tirana (PUT) | Marin Aranitasi     | maranitasi at fti dot edu dot al      |
+|3   | Bosnia and Herzegovina |  University of Banja Luka              | Mihajlo Savic       | badaboom at etfbl dot net             |
+|4   | Bosnia and Herzegovina |  University of Sarajevo                | Haris Gavranovic    | haris at pmf dot unsa dot ba          |
+|5   | Georgia                |  GRENA                                 | Nugzar Gamtsemlidze | ngamtsemlidze at grena dot ge         |
+|6   | Azerbaijan             |  National Academy of Sciences          | Shahla Khalilova    | shahla.khalilova at azgrid dot org    |
+|7   | Senegal                |  Univesity Chaukh Anta DIOP            | Bassirou Kasse      | bassirou.kasse at ucad dot edu dot sn |
+|8   | Switzerland            |  SixSq                                 | Marc-Elian Begin    | meb at sixsq dot com                  |
  
 
  <br />
