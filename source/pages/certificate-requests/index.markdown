@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "certificate requests"
-date: 2012-12-09 13:09
+date: 2013-03-25 15:13
 comments: true
 sharing: true
 footer: true
@@ -14,11 +14,12 @@ In order to request for a personal certificate via the command line you need to 
 
 First you must connect via ssh to your preferred UI and then issue the following command
 
-<pre>
+```
 mkdir %temporary_folder%
 cd %temporary_folder%
-</pre>
-where you should substitute %temporary_folder% with a name you prefer. 
+```
+
+where you should substitute ```%temporary_folder%``` with a name you prefer. 
 
 SEE-GRID CA issues certificates under one of the following name schemes:
 
@@ -38,22 +39,23 @@ To generate the request file and private key file ssue the following command.
 openssl req -newkey rsa:2048 -subj "/DC=EU/DC=EGI/C={Country Code}/O={People|Hosts}/O={Institution Name}/CN={Firstname Lastname}" -out cert_request.pem
 ```
 
-- Substitute {Country Code} with the two letter ISO 3166-1 Alpha-2 code of the country in capital letters. 
+1. Substitute ``{Country Code}`` with the two letter ISO 3166-1 Alpha-2 code of the country in capital letters. 
 
-- Use in the first O field the string People if this request if for a personal certificate or Hosts if the request os made for a host, service or robot certificate. 
+1. Substitute ``{People|Hosts}`` with ``People`` if this request is for a personal certificate or ``Hosts`` if the request os made for a host, service or robot certificate. 
 
-- Substitute {Institution Name} with the full name of your institution (for example Greek Research and Technology Network)
-- Substitute {Firstname Lastname} with your First and Last name. You may add your initials inbetween the First and Last name if you desire. 
+1. Substitute ``{Institution Name}`` with the full name of your institution (for example Greek Research and Technology Network)
 
-After that command an encrypted key will be created using the passphrase that you will provide to the privkey.pem. Also the application will be created to the file named cert_request.pem
+1. Substitute ``{Firstname Lastname}`` with your First and Last name. You may add your initials inbetween the First and Last name if you desire. 
+
+After that command an encrypted key will be created using the passphrase that you will provide to the ``privkey.pem``. Also the application will be created to the file named ``cert_request.pem``
 
 In case you get the following error:
 
-<pre>
+```
 unable to find 'distinguished_name' in config
 problems making Certificate Request
 5016:error:0E06D06A:configuration file routines:NCONF_get_string:no conf or environment variable:conf_lib.c:325:
-</pre>
+```
 
 then you should execute the following command:
 
