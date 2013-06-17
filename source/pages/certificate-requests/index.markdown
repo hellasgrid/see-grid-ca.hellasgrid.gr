@@ -14,6 +14,7 @@ In order to request for a personal certificate via the command line you need to 
 
 First you must connect via ssh to your preferred UI and then issue the following command
 
+<<<<<<< HEAD
 ```
 mkdir %temporary_folder%
 cd %temporary_folder%
