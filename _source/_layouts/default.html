@@ -13,6 +13,12 @@
       setTimeout(function(){
         $('.fader').fadeIn(500);
       }, 2000);
+      
+      $("span.base64").each(function() {
+      var $span = $(this),
+        data = window.atob($(this).text());
+      $span.after(data).remove();
+      });
     });
   </script>
   <!-- syntax highlighting CSS -->
@@ -41,7 +47,7 @@
         <p>
           <strong>SEE-GRID CA</strong><br />
           Catch All Certification Authority<br />
-          e-mail: see-grid-ca@hellasgrid.gr<br />
+          email: <span class="base64">c2VlZ3JpZC1jYUBoZWxsYXNncmlkLmdy</span><br />
         </p>
       </div>
       <div class="contact fader" style="margin-left: 380px; margin-right: -75px; margin-top: 10px; display: none;">
