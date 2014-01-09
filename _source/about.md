@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "SEE-GRID CA"
-date: 2012-12-09 13:06
+date: 2013-12-05 22:58
 comments: false
 sharing: false
 footer: false
@@ -13,7 +13,7 @@ page.footer: false
 
 ## Overview
 
-SEE-GRID CA is a Certification Authority managed and operated by the GRNET S.A., coordinator of the Greek National Grid Initiative, in cooperation with the Scientific Computing Center at the Aristotle University of Thessaloniki.
+SEE-GRID CA is a Certification Authority managed by GRNET S.A., coordinator of the National Grid Initiative, and operated in cooperation with the Scientific Computing Center at the Aristotle University of Thessaloniki.
 
 ## Brief History
 
@@ -23,14 +23,16 @@ Since May 2010, SEE-GRID CA provides Catch-All PKI services for the European Gri
 
 ## Certificate Policy and Certification Practice Statement (CP/CPS)
 
-The current version of the SEE-GRID CA CP/CPS is version 2.2.
+The current version of the SEE-GRID CA CP/CPS is version 2.3.
 
-* [SEE-GRID CA CP/CPS v2.2][cps22]
+* [SEE-GRID CA CP/CPS v2.3][cps23]
+* [SEE-GRID CA CP/CPS v2.2][cps22] _(Superseded by v2.3)_
 * [SEE-GRID CA CP/CPS v2.1][cps21] _(Superseded by v2.2)_
 * [SEE-GRID CA CP/CPS v2.0][cps20] _(Superseded by v2.1)_
 * [SEE-GRID CA CP/CPS v1.1][cps11] _(Superseded by v2.0)_
 * [SEE-GRID CA CP/CPS v1.0][cps10] _(Superseded by v1.1)_
 
+[cps23]: /assets/SEE-GRID-CA-CP-CPS-2.3.pdf
 [cps22]: /assets/SEE-GRID-CA-CP-CPS-2.2.pdf
 [cps21]: /assets/SEE-GRID-CA-CP-CPS-2.1.pdf
 [cps20]: /assets/SEE-GRID-CA-CP-CPS-2.0.pdf
@@ -39,32 +41,29 @@ The current version of the SEE-GRID CA CP/CPS is version 2.2.
 
 ## Trust Anchors
 
-Trust Anchors (TAs) are cryptographic public keys used for digital signing of other public keys and some additional meta data associated with those public keys (e.g. X.509 digital certificates of Certification Authorities (CAs)) or other data
+Trust Anchors (TAs) are cryptographic public keys used for digital signing of other public keys and some additional meta data associated with those public keys (e.g. X.509 digital certificates of Certification Authorities) or other data
 
 The CA certificate and CRLs are needed in order to correctly verify the validity of a certificate that has been issued by the SEE-GRID CA.
 
-### Certificates
+### SEE-GRID CA
+
+Below you can find information about the new SEE-GRID CA signing certificate that is in effect since 1/1/2014. The information about the previous signing certificate, which was in effect until 31/12/2013, has been [archived]
+
+[archived]: /see-grid-ca-2004-2013.html
+
+#### Certificate & CRL
 
 * [SEE-GRID CA certificate in PEM format][cert-pem]
-* [SEE-GRID CA certificate in DER format][cert-der]
-* [Import the SEE-GRID CA root certificate in your browser][cert-import]
-
-### Certificate Revocation Lists
-
 * [SEE-GRID CA CRL in PEM format][crl-pem]
-* [SEE-GRID CA CRL in DER format][crl-der]
 
-[cert-pem]: http://crl.grid.auth.gr/seegrid-ca/cert/see-grid-ca-cert.pem
-[cert-der]: http://crl.grid.auth.gr/seegrid-ca/cert/see-grid-ca-cert.der
-[cert-import]: http://crl.grid.auth.gr/seegrid-ca/cert/468d15b3.cacrt
-[crl-pem]: http://crl.grid.auth.gr/seegrid-ca/crl-v2.pem
-[crl-der]: http://crl.grid.auth.gr/seegrid-ca/crl-v2.crl
+[cert-pem]: http://crl.hellasgrid.gr/seegrid-ca-2013/cert.pem
+[crl-pem]: http://crl.hellasgrid.gr/seegrid-ca-2013/crl-v2.pem
 
-### Fingerprint & hashes
+#### Fingerprint & hashes
 
-    SHA1 fingerprint: CE:DB:DD:E2:DC:74:A8:84:86:36:EB:73:F4:F3:84:E9:98:B3:F5:6D 
-    OpenSSL 0.x hash: 468d15b3
-    OpenSSL 1.x hash: dd51b42a
+    SHA1 fingerprint: DD:8C:D9:6E:18:AB:53:92:40:15:BF:DA:EB:F9:6F:31:EB:4F:69:66 
+    OpenSSL 0.x hash: da213f5b
+    OpenSSL 1.x hash: ad9d1b74
 
 ## Registration Authorities
 
