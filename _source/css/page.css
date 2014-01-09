@@ -2,8 +2,7 @@
 
 .page p {
     font-family: 'Lora', serif;
-    font-weight: 400;
-    font-size: 1.15em;
+    font-size: 1.05em;
     line-height: 1.85;
     color: #333332;
     text-align: left;
@@ -43,13 +42,13 @@
     word-wrap: break-word;
 }
 
-.page h2,h3 {
+.page h2,h3,h4 {
     font-family: 'Lora', serif;
     font-style: italic;
-    font-weight: 400;
-    font-size: 32px;
+    font-weight: bold;
+    font-size: 24px;
     margin-bottom: 1.25em;
-    line-height: 32px;
+    line-height: 24px;
     color: rgb(51, 51, 50);
     display: block;
     word-wrap: break-word;
@@ -57,7 +56,11 @@
 }
 
 .page h3 {
-	font-size: 24px;
+	font-size: 22px;
+}
+
+.page h4 {
+	font-size: 18px;
 }
 
 table {
