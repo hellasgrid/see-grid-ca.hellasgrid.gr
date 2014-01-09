@@ -84,6 +84,7 @@ The table below contains the current list of Registration Authorities.
 |8   | Switzerland            |  SixSq                                              | Marc-Elian Begin    | meb at sixsq dot com                  |
 |9   | South Africa           |  South African National Bioinformatics Instititute  | Peter van Heusden   | pvh at sanbi dot ac dot zat           |
 |10  | Nigeria                |  University of Nigeria Nsukka                       | Collins N. Udanor   | collins.udanor at unn dot edu dot ng  |
+|11  | Tanzania               |  Tanzania Education and Research Network            | Damas Makweba       | damas.makweba at ternet dot or dot tz |
 
  <br />
 
