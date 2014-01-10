@@ -23,15 +23,17 @@ Since May 2010, SEE-GRID CA provides Catch-All PKI services for the European Gri
 
 ## Certificate Policy and Certification Practice Statement (CP/CPS)
 
-The current version of the SEE-GRID CA CP/CPS is version 2.3.
+The current version of the SEE-GRID CA CP/CPS is version 2.4.
 
-* [SEE-GRID CA CP/CPS v2.3][cps23]
+* [SEE-GRID CA CP/CPS v2.4][cps24]
+* [SEE-GRID CA CP/CPS v2.3][cps23] _(Superseded by v2.4)_
 * [SEE-GRID CA CP/CPS v2.2][cps22] _(Superseded by v2.3)_
 * [SEE-GRID CA CP/CPS v2.1][cps21] _(Superseded by v2.2)_
 * [SEE-GRID CA CP/CPS v2.0][cps20] _(Superseded by v2.1)_
 * [SEE-GRID CA CP/CPS v1.1][cps11] _(Superseded by v2.0)_
 * [SEE-GRID CA CP/CPS v1.0][cps10] _(Superseded by v1.1)_
 
+[cps24]: /assets/SEE-GRID-CA-CP-CPS-2.4.pdf
 [cps23]: /assets/SEE-GRID-CA-CP-CPS-2.3.pdf
 [cps22]: /assets/SEE-GRID-CA-CP-CPS-2.2.pdf
 [cps21]: /assets/SEE-GRID-CA-CP-CPS-2.1.pdf
