@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "SEE-GRID CA"
-date: 2015-01-30 12:50
+date: 2015-05-15 12:50
 comments: false
 sharing: false
 footer: false
@@ -87,6 +87,7 @@ The table below contains the current list of Registration Authorities.
 |9   | South Africa           |  South African National Bioinformatics Instititute  | Peter van Heusden   | pvh at sanbi dot ac dot zat           |
 |10  | Nigeria                |  University of Nigeria Nsukka                       | Collins N. Udanor   | collins.udanor at unn dot edu dot ng  |
 |11  | Tanzania               |  Tanzania Education and Research Network            | Damas Makweba       | damas.makweba at ternet dot or dot tz |
+|12  | Switzerland            |  University of Bern                                 | Sigve Haug          | sigve.haug at lhep dot unibe dot ch   |
 
  <br />
 
