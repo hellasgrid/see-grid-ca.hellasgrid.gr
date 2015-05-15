@@ -2,6 +2,6 @@ name: SEE-GRID CA
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-pygments: true
+highlighter: pygments 
 permalink: /blog/:year/:month/:day/:title
 source: _source
