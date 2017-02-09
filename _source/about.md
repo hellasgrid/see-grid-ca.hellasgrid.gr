@@ -74,21 +74,21 @@ The procedures of identification and authentication of the certificate applicant
 The table below contains the current list of Registration Authorities. 
 
 
-|#   | Country                | Registration Authority                              | RA Manager          | e-mail                                |
-|----|------------------------|-----------------------------------------------------|---------------------|---------------------------------------|
-|1   | Greece                 |  GRNET                                              | Ognjen Prnjat       | oprnjat at grnet dot gr               |
-|2   | Albania                |  Polytechic University of Tirana (PUT)              | Ada Gogu            | agogu at fti dot edu dot al           |
-|3   | Bosnia and Herzegovina |  University of Banja Luka                           | Mihajlo Savic       | badaboom at etfbl dot net             |
-|4   | Bosnia and Herzegovina |  University of Sarajevo                             | Haris Gavranovic    | haris at pmf dot unsa dot ba          |
-|5   | Georgia                |  GRENA                                              | Nugzar Gamtsemlidze | ngamtsemlidze at grena dot ge         |
-|6   | Azerbaijan             |  National Academy of Sciences                       | Shahla Khalilova    | shahla.khalilova at azgrid dot net    |
-|7   | Senegal                |  Univesity Chaukh Anta DIOP                         | Bassirou Kasse      | bassirou.kasse at ucad dot edu dot sn |
-|8   | Switzerland            |  SixSq Sarl                                         | Charles Loomis      | cal at sixsq dot com                  |
-|9   | South Africa           |  South African National Bioinformatics Instititute  | Peter van Heusden   | pvh at sanbi dot ac dot zat           |
-|10  | Nigeria                |  University of Nigeria Nsukka                       | Collins N. Udanor   | collins.udanor at unn dot edu dot ng  |
-|11  | Tanzania               |  Tanzania Education and Research Network            | Damas Makweba       | damas.makweba at ternet dot or dot tz |
-|12  | Switzerland            |  University of Bern                                 | Sigve Haug          | sigve.haug at lhep dot unibe dot ch   |
-|13  | Italy                  |  Terradue Srl                                       | Fabrice Brito, Cesare Rossi    | fabrice.brito at terradue dot com , cesare.rossi at terradue dot com    |
+| #  | Country                | Registration Authority                             | RA Manager (e-mail)                                      | RA Operator (e-mail)                                         |
+|----|------------------------|----------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------|
+| 1  | Greece                 | GRNET                                              | Ognjen Prnjat (oprnjat at grnet dot gr)                  |                                                              |
+| 2  | Albania                | Polytechic University of Tirana (PUT)              | Ada Gogu (agogu at fti dot edu dot al)                   |                                                              |
+| 3  | Bosnia and Herzegovina | University of Banja Luka                           | Mihajlo Savic (badaboom at etfbl dot net)                |                                                              |
+| 4  | Bosnia and Herzegovina | University of Sarajevo                             | Haris Gavranovic (haris at pmf dot unsa dot ba)          |                                                              |
+| 5  | Georgia                | GRENA                                              | Nugzar Gamtsemlidze (ngamtsemlidze at grena dot ge)      |                                                              |
+| 6  | Azerbaijan             | National Academy of Sciences                       | Shahla Khalilova (shahla.khalilova at azgrid dot net)    |                                                              |
+| 7  | Senegal                | Univesity Chaukh Anta DIOP                         | Bassirou Kasse (bassirou.kasse at ucad dot edu dot sn)   |                                                              |
+| 8  | Switzerland            | SixSq Sarl                                         | Charles Loomis (cal at sixsq dot com)                    |                                                              |
+| 9  | South Africa           | South African National Bioinformatics Instititute  | Peter van Heusden (pvh at sanbi dot ac dot zat)          |                                                              |
+| 10 | Nigeria                | University of Nigeria Nsukka                       | Collins N. Udanor (collins.udanor at unn dot edu dot ng) |                                                              |
+| 11 | Tanzania               | Tanzania Education and Research Network            | Damas Makweba (damas.makweba at ternet dot or dot tz)    |                                                              |
+| 12 | Switzerland            | University of Bern                                 | Sigve Haug (sigve.haug at lhep dot unibe dot ch)         | Alexander Kashev (alexander.kashev at math dot unibe dot ch) |
+| 13 | Italy                  | Terradue Srl                                       | Fabrice Brito (fabrice.brito at terradue dot com)        | Cesare Rossi (cesare.rossi at terradue dot com)              |
 
  <br />
 
