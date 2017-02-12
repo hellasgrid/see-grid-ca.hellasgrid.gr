@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Requirements for Setting up a SEE-GRID CA Registration Authority"
-date: 2012-12-09 13:14
+date: 2012-12-09T13:14:00+02:00
+aliases:
+    - /ra-setup.html
 ---
 
 Registration Authority set up

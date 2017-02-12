@@ -1,13 +1,8 @@
 ---
-layout: default
-title: "SEE-GRID CA"
-date: 2015-05-15 12:50
-comments: false
-sharing: false
-footer: false
-styles: [data-table]
-sidebar: false
-page.footer: false
+title: SEE-GRID CA
+date: 2015-05-15T12:50:00+02:00
+aliases:
+    - /about.html
 ---
 
 

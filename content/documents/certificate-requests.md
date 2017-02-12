@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "certificate requests"
-date: 2013-03-25 15:13
+date: 2013-03-25T15:13:00+02:00
+aliases:
+    - /certificate-requests.html
 ---
 
 Certificate request generation
