@@ -1,13 +1,9 @@
 ---
 layout: default
 title: "SEE-GRID CA (Retired)"
-date: 2013-12-20 13:14
-comments: false
-sharing: false
-footer: false
-styles: [data-table]
-sidebar: false
-page.footer: false
+date: 2013-12-20T13:14:00+02:00
+aliases:
+    - /see-grid-ca-2004-2013.html
 ---
 
 ### SEE-GRID CA (Retired)
