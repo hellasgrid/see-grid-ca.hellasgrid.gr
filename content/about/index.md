@@ -82,7 +82,7 @@ The table below contains the current list of Registration Authorities.
 | 9  | South Africa           | South African National Bioinformatics Instititute  | Peter van Heusden (pvh at sanbi dot ac dot zat)          |                                                              |
 | 10 | Nigeria                | University of Nigeria Nsukka                       | Collins N. Udanor (collins.udanor at unn dot edu dot ng) |                                                              |
 | 11 | Tanzania               | Tanzania Education and Research Network            | Damas Makweba (damas.makweba at ternet dot or dot tz)    |                                                              |
-| 12 | Switzerland            | University of Bern                                 | Sigve Haug (sigve.haug at lhep dot unibe dot ch)         | Alexander Kashev (alexander.kashev at math dot unibe dot ch) |
+| 12 | Switzerland            | University of Bern                                 | Sigve Haug (sigve.haug at lhep dot unibe dot ch)         | Gianfranco Sciacca (gianfranco.sciacca at lhep dot unibe dot ch), Alexander Kashev (alexander.kashev at math dot unibe dot ch) |
 | 13 | Italy                  | Terradue Srl                                       | Fabrice Brito (fabrice.brito at terradue dot com)        | Cesare Rossi (cesare.rossi at terradue dot com)              |
 
  <br />
