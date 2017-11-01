@@ -85,6 +85,7 @@ The table below contains the current list of Registration Authorities.
 | 12 | Switzerland            | University of Bern                                 | Sigve Haug (sigve.haug at lhep dot unibe dot ch)         | Gianfranco Sciacca (gianfranco.sciacca at lhep dot unibe dot ch), Alexander Kashev (alexander.kashev at math dot unibe dot ch) |
 | 13 | Italy                  | Terradue Srl                                       | Fabrice Brito (fabrice.brito at terradue dot com)        | Cesare Rossi (cesare.rossi at terradue dot com)              |
 | 14 | Sudan                  | University of Khartoum                             | Faisal Mohamed Fadlelmola ( faisal.mohamed at hotmail dot com) | Azza Ahmed ( azzaea at gmail dot com)                  |
+| 15 | South Africa           | Council for Scientific and Industrial Research     | Sean Murray ( smurray at csir dot co dot za)  |     |
 
  <br />
 
