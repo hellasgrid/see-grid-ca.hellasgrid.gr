@@ -76,7 +76,7 @@ The table below contains the current list of Registration Authorities.
 | 3  | Bosnia and Herzegovina | University of Banja Luka                           | Mihajlo Savic (badaboom at etfbl dot net)                |                                                              |
 | 4  | Bosnia and Herzegovina | University of Sarajevo                             | Haris Gavranovic (haris at pmf dot unsa dot ba)          |                                                              |
 | 5  | Georgia                | GRENA                                              | Nugzar Gamtsemlidze (ngamtsemlidze at grena dot ge)      |                                                              |
-| 6  | Azerbaijan             | National Academy of Sciences                       | Shahla Khalilova (shahla.khalilova at azgrid dot net)    |                                                              |
+| 6  | Azerbaijan             | National Academy of Sciences                       | Shahla Khalilova (shahla.khalilova at physics dot science dot az)    |                                                              |
 | 7  | Senegal                | Univesity Chaukh Anta DIOP                         | Bassirou Kasse (bassirou.kasse at ucad dot edu dot sn)   |                                                              |
 | 8  | Switzerland            | SixSq Sarl                                         | Charles Loomis (cal at sixsq dot com)                    |                                                              |
 | 9  | South Africa           | South African National Bioinformatics Instititute  | Peter van Heusden (pvh at sanbi dot ac dot zat)          |                                                              |
